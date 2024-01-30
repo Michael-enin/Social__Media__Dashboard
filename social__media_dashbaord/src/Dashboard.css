@@ -1,0 +1,12 @@
+.content{
+    background-color: rgb(205, 231, 254);
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    font-size: 15px;
+    
+}
