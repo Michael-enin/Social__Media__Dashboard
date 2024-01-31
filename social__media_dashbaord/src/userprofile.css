@@ -1,0 +1,8 @@
+.profile{
+    background-color: rgb(223, 235, 246);
+    display: flex;
+    text-align: center;
+    margin-left:600px;
+    margin-right: 300px;
+    padding-left: 40px;
+}

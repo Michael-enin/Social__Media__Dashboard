@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    background-color: #C4C5E1;
+    display: contents;
+}
+.navbar .menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style:none;
+    gap: 40px;
+    font-size: 20px;
+    visibility: visible;
+   
+}
+.navbar .menu li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    visibility: visible;
+}

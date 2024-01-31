@@ -3,42 +3,79 @@
       "id": 0,
       "title": "Hello, undefined! You have 3 unread messages.",
       "description": "Voluptate aliquip anim exercitation quis. Consectetur eu officia cupidatat laborum ex ullamco est elit. Irure voluptate nostrud elit officia sint in incididunt consectetur qui Lorem minim do.\r\n",
-      "postedAt": "2018-12-13T08:12:31 -03:00"
+      "postedAt": "2018-12-13T08:12:31 -03:00", 
+      "user":{
+        "id":0, 
+        "name":"Alex", 
+        "email":"alex123@gmail.com"
+      }
     },
     {
       "id": 1,
       "title": "Hello, undefined! You have 2 unread messages.",
       "description": "Consequat sunt occaecat reprehenderit consectetur qui excepteur ad dolore non esse. Incididunt veniam ullamco aliqua consectetur ex veniam et in ipsum adipisicing cupidatat. Ea et sit sit adipisicing mollit mollit officia consectetur elit laborum. Aliquip pariatur eu ea fugiat ullamco in voluptate dolore dolor tempor veniam dolor labore dolore. Veniam ipsum ex elit sunt cupidatat commodo dolore Lorem aute esse.\r\n",
-      "postedAt": "2021-03-16T04:43:04 -03:00"
+      "postedAt": "2021-03-16T04:43:04 -03:00", 
+      "user":{
+        "id":1, 
+        "name":"Tomzak", 
+        "email":"tomser@gmail.com"
+      }
     },
     {
       "id": 2,
       "title": "Hello, undefined! You have 7 unread messages.",
       "description": "Veniam ut id cupidatat exercitation magna veniam commodo eu sunt officia. Deserunt sint veniam fugiat occaecat id non ad proident commodo duis magna commodo reprehenderit. Labore et non dolor eu ea tempor cupidatat laboris aute et et Lorem et sunt. Aute aute exercitation cillum in laborum minim esse. Laborum adipisicing dolore sunt ex ex irure ut adipisicing. Consectetur magna laborum ad labore sit elit reprehenderit non eu. Culpa ullamco culpa reprehenderit deserunt veniam tempor amet in.\r\n",
-      "postedAt": "2014-05-30T04:03:47 -03:00"
+      "postedAt": "2014-05-30T04:03:47 -03:00", 
+      "user":{
+        "id":2, 
+        "name":"Michael Somi", 
+        "email":"somike@gmail.com"
+      }
     },
     {
       "id": 3,
       "title": "Hello, undefined! You have 2 unread messages.",
       "description": "Labore labore sint est esse do in aute. Culpa est amet pariatur pariatur culpa mollit. Exercitation sint aliquip duis qui. Reprehenderit et labore labore aliquip in culpa id. Duis tempor laborum irure non tempor adipisicing.\r\n",
-      "postedAt": "2018-11-30T01:17:33 -03:00"
+      "postedAt": "2018-11-30T01:17:33 -03:00", 
+      "user":{
+        "id":3, 
+        "name":"Amrabat Yalfal", 
+        "email":"amriyali@gmail.com"
+      }
     },
     {
       "id": 4,
       "title": "Hello, undefined! You have 2 unread messages.",
       "description": "Aliquip consequat magna commodo nisi magna aliquip voluptate ullamco eu tempor mollit incididunt. Eiusmod ullamco nostrud mollit aute ipsum exercitation nostrud. Aute eu veniam voluptate proident aliqua laboris laborum cupidatat fugiat amet ut officia. Pariatur sit voluptate do pariatur ipsum eu irure id sit in anim nostrud. Labore ut velit sunt ullamco id proident est magna.\r\n",
-      "postedAt": "2021-04-17T10:06:50 -03:00"
+      "postedAt": "2021-04-17T10:06:50 -03:00", 
+      "user":{
+        "id":4, 
+        "name":"Mohammed Sharif", 
+        "email":"sharimoha@gmail.com"
+      }
     },
     {
       "id": 5,
       "title": "Hello, undefined! You have 5 unread messages.",
       "description": "Aliquip nostrud culpa est aute duis cillum adipisicing qui quis esse ex elit. Occaecat laboris reprehenderit ex consectetur cillum consectetur. Eiusmod excepteur dolor cillum ut eu ipsum deserunt aute aliquip ut voluptate minim anim. Ea ut commodo sint qui. Proident qui sit ipsum sunt cillum commodo excepteur elit mollit cupidatat aliqua cupidatat sint. Ex sunt aute commodo aute incididunt magna elit. Quis laboris labore laborum amet ullamco aliquip exercitation voluptate consequat et sint.\r\n",
-      "postedAt": "2014-04-06T03:52:57 -03:00"
+      "postedAt": "2014-04-06T03:52:57 -03:00",
+      "user":{
+        "id":5, 
+        "name":"Senbet Dani", 
+        "email":"senbe@gmail.com"
+      }
     },
     {
       "id": 6,
       "title": "Hello, undefined! You have 6 unread messages.",
       "description": "Aliqua nulla nostrud ad sunt sit Lorem reprehenderit incididunt sint. Ipsum laborum cillum tempor quis non excepteur enim adipisicing. Culpa amet cupidatat Lorem duis id eu esse irure sunt. Proident voluptate tempor non sint. Culpa anim esse ea voluptate nostrud anim anim do ea. Consectetur esse esse laboris excepteur. Eu non minim aute dolor pariatur magna commodo officia in.\r\n",
-      "postedAt": "2021-06-01T10:15:30 -03:00"
-    }
+      "postedAt": "2021-06-01T10:15:30 -03:00", 
+      "user":{
+        "id":6, 
+        "name":"Jacki Alem", 
+        "email":"jackiale@gmail.com"
+      }
+    } 
+    
+    
 ]

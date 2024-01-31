@@ -1,0 +1,42 @@
+[
+    {
+      "id": 0,
+      "isActive": true,
+      "name": "Madeline Terry",
+      "gender": "female",
+      "email": "madelineterry@insurety.com",
+      "address": "720 Macdougal Street, Elfrida, Kansas, 3388"
+    },
+    {
+      "id": 1,
+      "isActive": false,
+      "name": "Ford Diaz",
+      "gender": "male",
+      "email": "forddiaz@insurety.com",
+      "address": "623 Huron Street, Brambleton, Minnesota, 7610"
+    },
+    {
+      "id": 2,
+      "isActive": true,
+      "name": "Burks Harrington",
+      "gender": "male",
+      "email": "burksharrington@insurety.com",
+      "address": "378 Nassau Avenue, Jessie, Mississippi, 8751"
+    },
+    {
+      "id": 3,
+      "isActive": false,
+      "name": "Lily Nguyen",
+      "gender": "female",
+      "email": "lilynguyen@insurety.com",
+      "address": "380 Crosby Avenue, Juarez, Vermont, 8516"
+    },
+    {
+      "id": 4,
+      "isActive": false,
+      "name": "Pitts Doyle",
+      "gender": "male",
+      "email": "pittsdoyle@insurety.com",
+      "address": "411 Leonard Street, Kieler, Georgia, 3944"
+    }
+  ]
